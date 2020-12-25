@@ -10,3 +10,4 @@ Biostat-Lecture 3.pdf = 3. Hafta Ders Notu
 
 Biostat-Lecture 4.pdf = 4. Hafta Ders Notu
 
+Biostat-Lecture 5.pdf = 5. Hafta Ders Notu
