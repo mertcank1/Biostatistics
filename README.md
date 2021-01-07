@@ -15,3 +15,5 @@ Biostat-Lecture 5.pdf = 5. Hafta Ders Notu
 Biostat-Lecture 6.pdf = 6. Hafta Ders Notu
 
 Biostat-Lecture 7.pdf = 7. Hafta Ders Notu
+
+Biostat-Lecture 8.pdf = 8. Hafta Ders Notu
